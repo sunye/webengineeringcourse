@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:barais/webengineeringcourse.git"
+    "url": "git@github.com:sunye/webengineeringcourse.git"
   },
   "scripts": {
     "test": "grunt test"
